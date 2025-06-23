@@ -1,0 +1,9 @@
+# Ignore node_modules in both client and server
+wordvault-client/node_modules
+wordvault-server/node_modules
+
+# Ignore environment files
+wordvault-server/.env
+
+# Ignore log files
+*.log
